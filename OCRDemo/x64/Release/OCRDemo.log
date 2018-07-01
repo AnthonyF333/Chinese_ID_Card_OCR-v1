@@ -1,0 +1,58 @@
+﻿  OCRDemo.cpp
+e:\projects\ocrdemo\ocrdemo\OCRDemoDlg.h(8): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\projects\ocrdemo\ocrdemo\OCRDemoDlg.h(9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\projects\ocrdemo\3rdparty\tesseract4.0\include\leptonica\pix.h(241): warning C4305: “初始化”: 从“double”到“l_float32”截断
+e:\projects\ocrdemo\3rdparty\tesseract4.0\include\leptonica\pix.h(243): warning C4305: “初始化”: 从“double”到“l_float32”截断
+  OCRDemoDlg.cpp
+e:\projects\ocrdemo\ocrdemo\OCRDemoDlg.h(8): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\projects\ocrdemo\ocrdemo\OCRDemoDlg.h(9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\projects\ocrdemo\3rdparty\tesseract4.0\include\leptonica\pix.h(241): warning C4305: “初始化”: 从“double”到“l_float32”截断
+e:\projects\ocrdemo\3rdparty\tesseract4.0\include\leptonica\pix.h(243): warning C4305: “初始化”: 从“double”到“l_float32”截断
+OCRDemoDlg.cpp(211): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  OCRIDCard.cpp
+e:\projects\ocrdemo\3rdparty\tesseract4.0\include\leptonica\pix.h(241): warning C4305: “初始化”: 从“double”到“l_float32”截断
+e:\projects\ocrdemo\3rdparty\tesseract4.0\include\leptonica\pix.h(243): warning C4305: “初始化”: 从“double”到“l_float32”截断
+OCRIDCard.cpp(34): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+OCRIDCard.cpp(40): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+OCRIDCard.cpp(88): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+OCRIDCard.cpp(89): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+OCRIDCard.cpp(109): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+OCRIDCard.cpp(110): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+OCRIDCard.cpp(259): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+OCRIDCard.cpp(281): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+OCRIDCard.cpp(576): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+OCRIDCard.cpp(578): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+OCRIDCard.cpp(587): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+OCRIDCard.cpp(588): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+OCRIDCard.cpp(591): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+OCRIDCard.cpp(592): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+OCRIDCard.cpp(601): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+OCRIDCard.cpp(611): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+OCRIDCard.cpp(621): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+OCRIDCard.cpp(622): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+OCRIDCard.cpp(625): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+OCRIDCard.cpp(626): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+OCRIDCard.cpp(632): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+OCRIDCard.cpp(633): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+OCRIDCard.cpp(837): warning C4101: “img”: 未引用的局部变量
+OCRIDCard.cpp(884): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+OCRIDCard.cpp(970): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+OCRIDCard.cpp(976): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+OCRIDCard.cpp(1042): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+OCRIDCard.cpp(1048): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+OCRIDCard.cpp(1115): warning C4101: “img”: 未引用的局部变量
+OCRIDCard.cpp(1217): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+OCRIDCard.cpp(1232): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+OCRIDCard.cpp(1233): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+OCRIDCard.cpp(1234): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+OCRIDCard.cpp(1235): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+OCRIDCard.cpp(1294): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+OCRIDCard.cpp(1306): warning C4101: “refHeight”: 未引用的局部变量
+OCRIDCard.cpp(1345): warning C4101: “img”: 未引用的局部变量
+OCRIDCard.cpp(1431): warning C4101: “num”: 未引用的局部变量
+  正在生成代码
+  5 of 1010 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    15 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  OCRDemo.vcxproj -> E:\Projects\OCRDemo\x64\Release\OCRDemo.exe

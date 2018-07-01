@@ -1,0 +1,22 @@
+﻿生成启动时间为 2018/4/19 9:18:13。
+     1>项目“c:\Users\shal\documents\visual studio 2015\Projects\OCRDemo\OCRDemo\OCRDemo.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\OCRDemo.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\OCRDemo.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt OCRDemo.cpp OCRDemoDlg.cpp
+         OCRDemoDlg.cpp
+         OCRDemo.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\OCRDemo.res" OCRDemo.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\shal\documents\visual studio 2015\Projects\OCRDemo\Debug\OCRDemo.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"c:\users\shal\documents\visual studio 2015\Projects\OCRDemo\Debug\OCRDemo.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\shal\documents\visual studio 2015\Projects\OCRDemo\Debug\OCRDemo.lib" /MACHINE:X86 Debug\OCRDemo.res
+         Debug\OCRDemo.obj
+         Debug\OCRDemoDlg.obj
+         Debug\stdafx.obj
+         OCRDemo.vcxproj -> c:\users\shal\documents\visual studio 2015\Projects\OCRDemo\Debug\OCRDemo.exe
+     1>已完成生成项目“c:\Users\shal\documents\visual studio 2015\Projects\OCRDemo\OCRDemo\OCRDemo.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:06.22
